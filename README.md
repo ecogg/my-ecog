@@ -1,2 +1,2 @@
-# Updates to this repo are rare.
-Sorry
+# Updates to this repo will be rare.
+As they are not essential.
